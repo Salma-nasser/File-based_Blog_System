@@ -3,16 +3,17 @@ Overview
 
 A lightweight, file-based blogging system built on ASP.NET Core 10 Preview 4 Minimal API that stores content as files rather than in a database.
 
-Core Features
+##Core Features##
 
-Content Management
+#Content Management#
 
-Blog Posts: Support for title, description, body, published date, and modification date
+Blog Posts: Support for title,description, body, published date, and modification date
 Metadata: Support for tags and categories for each post
 Media: Image and file upload capabilities with automatic resizing options for images
 Custom URLs: Ability to define custom slugs/URLs for each post
 File Storage: All content stored in a structured file system rather than a database
-Authentication & Authorization
+
+#Authentication & Authorization#
 
 Secure login system for content authors and administrators
 Role-based permissions (Admin, Author, Editor)
